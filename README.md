@@ -17,5 +17,5 @@
 <h3 align="center"> Connect with me <img src="https://media.giphy.com/media/2iCNjawFAzNwUYLskA/giphy.gif" width="30px"></h3>
 <p align="center">
 	<a href="mailto:lindaakmentina92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/linda-akmenti%C5%86a-199268282/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/linda-akmentina"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
